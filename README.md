@@ -1,16 +1,86 @@
-## Hi there 👋
+# Mateo Murcia | Data Scientist & Statistician
 
-<!--
-**mateomur/mateomur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:mmurciav@unal.edu.co">
+    <img src="https://img.shields.io/badge/Email-mmurciav%40unal.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mateomur">
+    <img src="https://img.shields.io/badge/GitHub-mateomur-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mateo-murcia-27a816261/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mateo_Murcia-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📍 Location: Medellín, Colombia 🇨🇴
+* 📧 Email: mmurciav@unal.edu.co
+* 🎓 Studies: Statistics 📊
+* 🏫 University: Universidad Nacional de Colombia 🇨🇴
+
+I'm a Statistics student passionate about Data Analysis, Machine Learning, and Statistical Modeling. I enjoy solving real-world problems through analytics and am constantly expanding my skills through continuous learning.
+
+---
+## Technical Skills
+
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Analysis Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/SAS-075788?style=flat-square&logo=sas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Statistical_Modeling-3C9AD5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Sampling_Techniques-43853D?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+## Education
+
+**Universidad Nacional de Colombia** | Medellín, Colombia  
+*Bachelor of Science in Statistics* | 2018 - 2025  
+*Specialization in Analytics* | Current
+
+## Current Projects
+
+- **Statistical Modeling Applications**: Implementing advanced statistical models for predictive analytics
+- **Data Analysis Portfolio**: Building comprehensive data analysis projects using Python, R, and SQL
+- **Machine Learning Implementations**: Developing practical ML solutions for real-world problems
+
+## Languages
+
+- Spanish: Native
+- English: Professional Working Proficiency (C1)
+- French: Elementary Proficiency (Learning)
+
+## Continuous Learning
+
+Actively expanding knowledge through structured online courses:
+- Data Science and Machine Learning methodologies (Platzi, Datacamp)
+- Advanced statistical modeling techniques
+- Data visualization best practices
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateomur&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true"/>
+</div>
+
+<div align="center">
+  <sub>Open to collaboration and data science opportunities. Contact me via <a href="mailto:mmurciav@unal.edu.co">email</a> or <a href="https://www.linkedin.com/in/mateo-murcia-27a816261/">LinkedIn</a>.</sub>
+</div>
