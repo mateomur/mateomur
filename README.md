@@ -58,7 +58,7 @@ I'm a statistician passionate about Data Analysis, Machine Learning, and Statist
 *Bachelor of Science in Statistics* | 2018 - 2025  
 *Specialization in Analytics* | Current
 
-### Recent Activity
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 
