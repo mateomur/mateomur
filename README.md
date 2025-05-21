@@ -60,9 +60,8 @@ I'm a statistician passionate about Data Analysis, Machine Learning, and Statist
 
 ## Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## Languages
 
