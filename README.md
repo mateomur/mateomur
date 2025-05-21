@@ -19,7 +19,7 @@
 * 🎓 Studies: Statistics 📊
 * 🏫 University: Universidad Nacional de Colombia 🇨🇴
 
-I'm a Statistics student passionate about Data Analysis, Machine Learning, and Statistical Modeling. I enjoy solving real-world problems through analytics and am constantly expanding my skills through continuous learning.
+I'm a statistician passionate about Data Analysis, Machine Learning, and Statistical Modeling. I enjoy solving real-world problems through analytics and am constantly expanding my skills through continuous learning.
 
 ---
 ## Technical Skills
@@ -58,11 +58,11 @@ I'm a Statistics student passionate about Data Analysis, Machine Learning, and S
 *Bachelor of Science in Statistics* | 2018 - 2025  
 *Specialization in Analytics* | Current
 
-## Current Projects
+### Recent Activity
 
-- **Statistical Modeling Applications**: Implementing advanced statistical models for predictive analytics
-- **Data Analysis Portfolio**: Building comprehensive data analysis projects using Python, R, and SQL
-- **Machine Learning Implementations**: Developing practical ML solutions for real-world problems
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Languages
 
@@ -72,10 +72,8 @@ I'm a Statistics student passionate about Data Analysis, Machine Learning, and S
 
 ## Continuous Learning
 
-Actively expanding knowledge through structured online courses:
 - Data Science and Machine Learning methodologies (Platzi, Datacamp)
-- Advanced statistical modeling techniques
-- Data visualization best practices
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mateomur&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true"/>
