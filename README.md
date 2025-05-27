@@ -61,11 +61,11 @@ I'm a statistician passionate about Data Analysis, Machine Learning, and Statist
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/mateomur/myFirstRepo/pull/5) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
-2. ❗ Opened issue [#4](https://github.com/mateomur/myFirstRepo/issues/4) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
-3. 🔒 Closed issue [#3](https://github.com/mateomur/myFirstRepo/issues/3) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
-4. ❗ Opened issue [#3](https://github.com/mateomur/myFirstRepo/issues/3) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
-5. 💪 Opened PR [#2](https://github.com/mateomur/myFirstRepo/pull/2) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
+1. 🎉 Merged PR [#2](https://github.com/mateomur/myFourthRepo/pull/2) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
+2. 💪 Opened PR [#2](https://github.com/mateomur/myFourthRepo/pull/2) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
+3. 🎉 Merged PR [#1](https://github.com/mateomur/myFourthRepo/pull/1) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
+4. 💪 Opened PR [#1](https://github.com/mateomur/myFourthRepo/pull/1) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
+5. 💪 Opened PR [#5](https://github.com/mateomur/myFirstRepo/pull/5) in [mateomur/myFirstRepo](https://github.com/mateomur/myFirstRepo)
 <!--END_SECTION:activity-->
 
 ## Languages
