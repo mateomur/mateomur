@@ -19,7 +19,7 @@
 * 🎓 Studies: Statistics 📊
 * 🏫 University: Universidad Nacional de Colombia 🇨🇴
 
-I'm a statistician passionate about Data Analysis, Machine Learning, and Statistical Modeling. I enjoy solving real-world problems through analytics and am constantly expanding my skills through continuous learning.
+I love statistics.
 
 ---
 ## Technical Skills
