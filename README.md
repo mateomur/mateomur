@@ -1,88 +1,47 @@
-# Mateo Murcia | Data Scientist & Statistician
+After completing a B.Sc. in Statistics at Universidad Nacional de Colombia, 
+I joined one of Latin America's largest banks as a Data Scientist, where I 
+build and deploy ML systems that serve 12M+ customers — from investment risk 
+profiling to product recommendation pipelines.
 
-<div align="center">
-  <a href="mailto:mmurciav@unal.edu.co">
-    <img src="https://img.shields.io/badge/Email-mmurciav%40unal.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mateomur">
-    <img src="https://img.shields.io/badge/GitHub-mateomur-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mateo-murcia-27a816261/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mateo_Murcia-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+I work at the intersection of statistics, machine learning, and real business 
+impact. My focus: building things end-to-end, owning the full ML lifecycle, 
+and applying AI to problems that actually matter.
 
-## About Me
-
-* 📍 Location: Medellín, Colombia 🇨🇴
-* 📧 Email: mmurciav@unal.edu.co
-* 🎓 Studies: Statistics 📊
-* 🏫 University: Universidad Nacional de Colombia 🇨🇴
-
-I love statistics.
+Currently exploring opportunities in fintech, AI-native startups, and 
+organizations using technology to drive social impact.
 
 ---
-## Technical Skills
 
-<table>
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data Analysis Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SAS-075788?style=flat-square&logo=sas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Statistical_Modeling-3C9AD5?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Sampling_Techniques-43853D?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+## What I work with
 
-## Education
+Python · R · SQL · Scikit-learn · Pandas · FastAPI · Gemini API · Power BI · n8n
 
-**Universidad Nacional de Colombia** | Medellín, Colombia  
-*Bachelor of Science in Statistics* | 2018 - 2025  
-*Specialization in Analytics* | Current
+---
 
-## Recent Activity
+## Featured Projects
 
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10](https://github.com/mateomur/third_one/releases/tag/v0.1.0) in [mateomur/third_one](https://github.com/mateomur/third_one)
-2. 🎉 Merged PR [#2](https://github.com/mateomur/myFourthRepo/pull/2) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
-3. 💪 Opened PR [#2](https://github.com/mateomur/myFourthRepo/pull/2) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
-4. 🎉 Merged PR [#1](https://github.com/mateomur/myFourthRepo/pull/1) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
-5. 💪 Opened PR [#1](https://github.com/mateomur/myFourthRepo/pull/1) in [mateomur/myFourthRepo](https://github.com/mateomur/myFourthRepo)
-<!--END_SECTION:activity-->
+**[Phishing Detector](https://github.com/mateomur/phishing-detector)**
+End-to-end URL phishing detection using Random Forest + TF-IDF, with a 
+FastAPI backend and Gemini API integration to explain model predictions in 
+plain language. Built with a React frontend.
 
-## Languages
+**Investment Product Recommendation System**
+Clustering pipeline that matches bank customers with investment products at 
+scale. Extended to serve clients without prior risk profiles using a novel 
+segmentation strategy on demographic and behavioral data.
 
-- Spanish: Native
-- English: Professional Working Proficiency (C1)
-- French: Elementary Proficiency (Learning)
+---
 
-## Continuous Learning
+## Background
 
-- Data Science and Machine Learning methodologies (Platzi, Datacamp)
+- 🎓 B.Sc. Statistics · Universidad Nacional de Colombia
+- 📖 Specialization in Analytics *(in progress · Jul 2026)*
+- 🏫 Peer Tutor in Probability, Statistics I & II · Universidad Nacional de Colombia
+- 🌍 Medellín, Colombia · Open to remote & international opportunities
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateomur&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true"/>
-</div>
+##  Let's connect
 
-<div align="center">
-  <sub>Open to collaboration and data science opportunities. Contact me via <a href="mailto:mmurciav@unal.edu.co">email</a> or <a href="https://www.linkedin.com/in/mateo-murcia-27a816261/">LinkedIn</a>.</sub>
-</div>
+[LinkedIn](https://www.linkedin.com/in/mateo-murcia-27a816261/) · 
+[mmurciav@unal.edu.co](mailto:mmurciav@unal.edu.co)
