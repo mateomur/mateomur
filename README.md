@@ -40,6 +40,10 @@ segmentation strategy on demographic and behavioral data.
 - 🌍 Medellín, Colombia · Open to remote & international opportunities
 
 ---
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+---
 
 ##  Let's connect
 
